@@ -9,11 +9,8 @@ def readme():
 setup(
     name = 'mudopy', ###################################
     packages = setuptools.find_packages(),
-<<<<<<< HEAD
-    version = '2.3',
-=======
+
     version = '3.2',
->>>>>>> Updated
     license='MIT',
     description = 'Download any song using this library',
     author = 'Smit Parmar',
